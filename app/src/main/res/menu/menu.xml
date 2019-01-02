@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.avinash.mycontact.MainActivity">
+
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"
+        android:orderInCategory="10"
+        />
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:orderInCategory="20"
+        />
+    <item
+        android:id="@+id/speedDial"
+        android:title="@string/speed_dial"
+        android:orderInCategory="30"
+        />
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        android:orderInCategory="40"
+        />
+
+
+</menu>

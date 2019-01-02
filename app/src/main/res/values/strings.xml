@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyContact</string>
+    <string name="name">Name</string>
+    <string name="phoneno">Phone Number</string>
+    <string name="delete">Delete</string>
+    <string name="speed_dial">Speed dial</string>
+    <string name="share">Share</string>
+    <string name="setting">Setting</string>
+    <string name="title_activity_phone_detail">PhoneDetail</string>
+    <string name="mobile">Mobile</string>
+    <string name="number">Mobile Number</string>
+    <string name="share_contact">Share Contact</string>
+    <string name="more">More</string>
+
+</resources>
