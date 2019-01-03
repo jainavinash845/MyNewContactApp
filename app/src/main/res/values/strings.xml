@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MyContact</string>
     <string name="name">Name</string>
     <string name="phoneno">Phone Number</string>
@@ -12,4 +13,10 @@
     <string name="share_contact">Share Contact</string>
     <string name="more">More</string>
 
+=======
+    <string name="app_name">RetroFit</string>
+    <string name="name">Name</string>
+    <string name="forks">Forks</string>
+    <string name="enter_name">Enter Name</string>
+>>>>>>> d157170cd4c95a16594f46a7f4947bfe363e601d
 </resources>

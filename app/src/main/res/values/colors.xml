@@ -3,7 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+<<<<<<< HEAD
 
+=======
+>>>>>>> d157170cd4c95a16594f46a7f4947bfe363e601d
     <color name="red">#F44336</color>
     <color name="pink">#E91E63</color>
     <color name="purple">#9C27B0</color>
